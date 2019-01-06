@@ -2,7 +2,7 @@
 
 ### Day 1: Jan 05th, Saturday
 
-**Today's Progress**: Seeking the "Apis and Microservice certification" on freecode camp, I started this journey on fire and proud of myself :) 
+**Today's Progress**: Seeking the "Apis and Microservice certification" on freecodecamp, I started this journey on fire and proud of myself :) 
 
 **Thoughts** It's a great feeling to be start this challenge.
 
