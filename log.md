@@ -17,3 +17,12 @@
 
 **Link(s) to work** (Please check commits on Jan06)
 1. [Express Boilerplate - second portion of challenges](https://github.com/Calega/boilerplate-express/commits/gomix)
+
+### Day 2: Jan 07th, Monday
+
+**Today's Progress**: Started working on MongoDB and Mongoose. 
+
+**Thoughts** Feeling challenged! Had to read a lot of the mongoose documentation to go through the first challenges.
+
+**Link(s) to work** (Please check commits on Jan06)
+1. [Mongoose Boilerplate - first mongoose and mongoDBchallenges](https://github.com/Calega/boilerplate-mongomongoose/commit/7c60d56855329e8056f4f5062ff3580e58b7148e)
