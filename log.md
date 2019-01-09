@@ -24,5 +24,14 @@
 
 **Thoughts** Feeling challenged! Had to read a lot of the mongoose documentation to go through the first challenges.
 
-**Link(s) to work** (Please check commits on Jan06)
-1. [Mongoose Boilerplate - first mongoose and mongoDBchallenges](https://github.com/Calega/boilerplate-mongomongoose/commit/7c60d56855329e8056f4f5062ff3580e58b7148e)
+**Link(s) to work** 
+1. [Mongoose Boilerplate - first mongoose and mongoDB challenges](https://github.com/Calega/boilerplate-mongomongoose/commit/7c60d56855329e8056f4f5062ff3580e58b7148e)
+
+### Day 4: Jan 08th, Tuesday
+
+**Today's Progress**: Finished MongoDB and Mongoose challenges. Looking forward to the next day: Finally I'll start working on the project!
+
+**Thoughts** I got used to read the Mongoose documentation, so I could complete the challenges way faster.
+
+**Link(s) to work** (Please check commits on Jan08)
+1. [Mongoose Boilerplate - second mongoose and mongoDB challenges](https://github.com/Calega/boilerplate-mongomongoose/commits/gomix)
