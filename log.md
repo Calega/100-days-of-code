@@ -35,3 +35,12 @@
 
 **Link(s) to work** (Please check commits on Jan08)
 1. [Mongoose Boilerplate - second mongoose and mongoDB challenges](https://github.com/Calega/boilerplate-mongomongoose/commits/gomix)
+
+### Day 5: Jan 09th, Wednesday
+
+**Today's Progress**: Finished my first FCC API and Microservices project! "API Project: Timestamp Microservice". Learned a little bit more about handling date instances in Javascript and routing a Get request with express.
+
+**Thoughts** I forgot to test the "empty string" parameter, and had to refac a little, ended up improving the code. Having fun!
+
+**Link(s) to work** 
+1. [API and Microservices - Timestamp Project Solution](https://gist.github.com/Calega/dd860ec2dedb2c141f855bbf0b3a29b2)
