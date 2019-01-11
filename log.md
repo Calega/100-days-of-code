@@ -44,3 +44,12 @@
 
 **Link(s) to work** 
 1. [API and Microservices - Timestamp Project Solution](https://gist.github.com/Calega/dd860ec2dedb2c141f855bbf0b3a29b2)
+
+### Day 6: Jan 10th, Thursday
+
+**Today's Progress**: Finished my second FCC API and Microservices project! "Request Header Parser Microservice". Worked with headers in Javascript and Node.js, grabbing local Ip address, User Agent (local browser) and prefered language!
+
+**Thoughts** Had a lot of fun working on this challenge. Learned once and for all that a Javascript client acts completely different than a Node server.
+
+**Link(s) to work** 
+1. [API and Microservices - Request Header Parser Microservice Solution](https://github.com/Calega/boilerplate-project-headerparser/commit/8adedc6a393889569986ea107e06ed825458bb8c)
