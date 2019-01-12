@@ -63,3 +63,12 @@
 **Link(s) to work** 
 1. [API and Microservices - URL Shortener microservice](https://github.com/Calega/boilerplate-project-urlshortener/commit/9fda3b183d0e2924316324066f7295b6f66fc6e9)
 
+### Day 8: Jan 12th, Saturday
+
+**Today's Progress**: Still working on the URL Shortener Project. Made a business decision to stop trying with dns core module and use a npm module. Learned for once and for all what a url shortener means: It means the real url is saved on a database and the counter or Id is "short url" lol
+
+**Thoughts** Just a few minor changes missing before submitting this project. Almost there! 
+
+**Link(s) to work** (Soon I'll be using my shortener to share this links hehe)
+1. [API and Microservices - URL Shortener microservice](https://github.com/Calega/boilerplate-project-urlshortener/commit/a0e1ca3875b320f6f3ca622ee8d3b4b4d4989783)
+
