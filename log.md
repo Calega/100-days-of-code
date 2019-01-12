@@ -53,3 +53,13 @@
 
 **Link(s) to work** 
 1. [API and Microservices - Request Header Parser Microservice Solution](https://github.com/Calega/boilerplate-project-headerparser/commit/8adedc6a393889569986ea107e06ed825458bb8c)
+
+### Day 7: Jan 11th, Friday
+
+**Today's Progress**: Working on my third API and microservices project "URL Shortener Microservice". Learned about URL shorteners, more about mongoose and dns core (lookup)
+
+**Thoughts** Having a lot of fun working on this challenge! Spent almost 3h, but I'm feeling tired and have to sleep. I'll be back tomorrow, hopefully, to finish it!
+
+**Link(s) to work** 
+1. [API and Microservices - URL Shortener microservice](https://github.com/Calega/boilerplate-project-urlshortener/commit/9fda3b183d0e2924316324066f7295b6f66fc6e9)
+
