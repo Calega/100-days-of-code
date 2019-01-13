@@ -72,3 +72,12 @@
 **Link(s) to work** (Soon I'll be using my shortener to share this links hehe)
 1. [API and Microservices - URL Shortener microservice](https://github.com/Calega/boilerplate-project-urlshortener/commit/a0e1ca3875b320f6f3ca622ee8d3b4b4d4989783)
 
+### Day 9: Jan 13th, Sunday
+
+**Today's Progress**: Worked with promises to check if the Url sent by the user is valid. Changed the shortId character generaton to improve user experience when using the encoded "shortUrl". 
+
+**Thoughts** Finally finished the url shortener project. Had a lot of fun, and worked with promises for the first time :)
+
+**Link(s) to work** (Soon I'll be using my shortener to share this links hehe)
+1. [API and Microservices - URL Shortener microservice](https://gist.github.com/Calega/c294953ccd1f9f0b54f66ae20a35614e) - or check on Jan 13th commits https://github.com/Calega/boilerplate-project-urlshortener/commits/gomix
+
