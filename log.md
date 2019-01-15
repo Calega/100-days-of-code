@@ -81,3 +81,13 @@
 **Link(s) to work** (Soon I'll be using my shortener to share this links hehe)
 1. [API and Microservices - URL Shortener microservice](https://gist.github.com/Calega/c294953ccd1f9f0b54f66ae20a35614e) - or check on Jan 13th commits https://github.com/Calega/boilerplate-project-urlshortener/commits/gomix
 
+
+### Day 10: Jan 14th, Monday
+
+**Today's Progress**: Started working on the exercise tracker API. Created 3 routes/microservices to be used on this project, and making good progress so far.
+
+**Thoughts** : Fun project :)
+
+**Link(s) to work** 
+1. [API and Microservices - Exercise Tracker](https://github.com/Calega/boilerplate-project-exercisetracker/commit/9256578c91423db5bb7ab903647b1e522966835c)
+
