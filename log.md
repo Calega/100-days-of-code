@@ -91,3 +91,9 @@
 **Link(s) to work** 
 1. [API and Microservices - Exercise Tracker](https://github.com/Calega/boilerplate-project-exercisetracker/commit/9256578c91423db5bb7ab903647b1e522966835c)
 
+### Day 11: Jan 15th, Tuesday
+
+**Today's Progress**: Finished the API responsible to log user exercises. After logging the exercise, the data must be returned. Had some trouble with the correct mongoose method to make the update. I also thought that I should use a collection of exercises inside the user table, but it ain't part of the requirement. 
+
+**Link(s) to work** 
+1. [API and Microservices - Exercise Tracker](https://github.com/Calega/boilerplate-project-exercisetracker/commit/8113368819f91df1971cece074fda547e427a713)
