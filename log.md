@@ -98,9 +98,16 @@
 **Link(s) to work** 
 1. [API and Microservices - Exercise Tracker](https://github.com/Calega/boilerplate-project-exercisetracker/commit/8113368819f91df1971cece074fda547e427a713)
 
-### Day 12 & 13: Jan 15th, Wednesday & Thursday - feeling sick :(
+### Day 12 & 13: Jan 16th & Jan 17th, Wednesday & Thursday - feeling sick :(
 
 **Today's Progress**: Had to go back to the "add exercise" API to push to a collection of exercises instead of updating the current record. Also created a new attribute on the Schema: Counter. Started working on the 4th and 5th exercises: To return the exercises list. It will be hard and fun!
 
 **Link(s) to work** 
 1. [API and Microservices - Exercise Tracker](https://github.com/Calega/boilerplate-project-exercisetracker/commit/626e1e1f6b43a0eb3f35c77993bfc0a83b4bba30)
+
+### Day 14: Jan 18th, Friday - Feeling better :) 
+
+**Today's Progress**: Still getting a few bugs on the code, specially now that I set up my Postman tests properly. Working on the API to retrieve logs, using userId, from&to date ranges and limit to query.
+
+**Link(s) to work** 
+1. [API and Microservices - Exercise Tracker](https://github.com/Calega/boilerplate-project-exercisetracker/commit/ecc9396231d9b7a0b2e1f08ff346828c1b911fd6)
