@@ -111,3 +111,10 @@
 
 **Link(s) to work** 
 1. [API and Microservices - Exercise Tracker](https://github.com/Calega/boilerplate-project-exercisetracker/commit/ecc9396231d9b7a0b2e1f08ff346828c1b911fd6)
+
+### Day 15: Jan 19th, Saturday
+
+**Today's Progress**: Finished some details that were missing to filter exercises by Date. Tested all my api's, and they are working as expected. Submitted my project to FCC.
+
+**Link(s) to work** 
+1. [API and Microservices - Exercise Tracker](https://github.com/Calega/FCC-ExerciseTracker/commit/6b67f6d790f957d68b1ef4627d17dafa07cc1518)
