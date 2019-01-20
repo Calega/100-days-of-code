@@ -118,3 +118,10 @@
 
 **Link(s) to work** 
 1. [API and Microservices - Exercise Tracker](https://github.com/Calega/FCC-ExerciseTracker/commit/6b67f6d790f957d68b1ef4627d17dafa07cc1518)
+
+### Day 16: Jan 20th, Sunday
+
+**Today's Progress**: Today I deployed one of my favorite FCC projects so far to Heroku. My Url Shortened project can now be tested and used on https://calega-url-shortener.herokuapp.com/ . Had to make a few changes to make it possible, so I've learned more about package dependencies, environment variables in node (.env) and how to re-attempt to connect to the MongoDB if something goes wrong.
+
+**Link(s) to work** - Please check the commits on Jan 20th.
+1. [Deploying app to Heroku](https://github.com/Calega/FCC-UrlShortener/commits/gomix)
