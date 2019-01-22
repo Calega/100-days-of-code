@@ -125,3 +125,15 @@
 
 **Link(s) to work** - Please check the commits on Jan 20th.
 1. [Deploying app to Heroku](https://github.com/Calega/FCC-UrlShortener/commits/gomix)
+
+### Day 17: Jan 21th, Monday
+
+**Today's Progress**: Worked on the file metadata service, last challenge required to claim the Api And Microservices certificate. So excited that I got it! The last challenge wasn't so challenging, but the path was fun!
+
+**Link(s) to work** -
+1. [Api and Microservices - File Metadata Service](### Day 16: Jan 20th, Sunday
+
+**Today's Progress**: Today I deployed one of my favorite FCC projects so far to Heroku. My Url Shortened project can now be tested and used on https://calega-url-shortener.herokuapp.com/ . Had to make a few changes to make it possible, so I've learned more about package dependencies, environment variables in node (.env) and how to re-attempt to connect to the MongoDB if something goes wrong.
+
+**Link(s) to work** - Please check the commits on Jan 20th.
+1. [Deploying app to Heroku](https://github.com/Calega/FCC-UrlShortener/commits/gomix)
