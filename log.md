@@ -132,3 +132,8 @@
 
 **Link(s) to work** - Please check the commits on Jan 20th.
 1. [Api and Microservices - File Metadata Service](https://github.com/Calega/FCC-File-Metadata/commit/581a09c8e11425a10b5f87fa94f1b38cdc1b8f80)
+
+### Day 18: Jan 22th, Tuesday
+
+**Today's Progress**: Started working on my next project, which will involve React Native, Firebase authentication and some machine learning!
+-- No commits yet.
