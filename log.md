@@ -137,3 +137,11 @@
 
 **Today's Progress**: Started working on my next project, which will involve React Native, Firebase authentication and some machine learning!
 -- No commits yet.
+
+-- Got a little cold feet for a few days...
+
+### Day 19: Jan 27th, Sunday
+
+**Today's Progress**: Worked on lightning web components! The new Salesforce framework that is built on top of web standards with so many cool features! Can't wait to get my hands dirty
+
+**Link to work**: https://github.com/Calega/lwc-quickstart/commit/a8da537aafa25d3b85b74a2aff85feede8921978
