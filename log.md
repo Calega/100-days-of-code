@@ -151,3 +151,9 @@
 **Today's Progress**: Working on a Login Page with Facebook and IOS using react native.
 
 **Link to work**: https://github.com/Calega/Earth-Project/commits/master
+
+### Day 21: Jan 29th, Tuesday
+
+**Today's Progress**: Finished Login with react native and facebook. Still missing a few style changed on the button
+
+**Link to work**: https://github.com/Calega/Earth-Project/commits/master
